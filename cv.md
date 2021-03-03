@@ -1,36 +1,39 @@
-#SHARKUNOVA SVETLANA
+# SHARKUNOVA SVETLANA
+*****
 
-##CONTACT 
+## CONTACT 
 
 * mobile phone  +7 906 758 58 66
 * email           sharkunova@yandex.ru
 
-##JOB OBJECTIVE
+## JOB OBJECTIVE
 
 Frontend-developer (juior)
 
-##EDUCATION
+## EDUCATION
 
 Turkmen State University (*mathematics faculty/bachelor degree*)
 
-##TRAINING COURSES
+## TRAINING COURSES
+
 1. [HTMLAcademy (*free part*)](https://htmlacademy.ru/profile/id910771)
 1. [FreeCodeCamp](https://www.freecodecamp.org/sveta_sharkunova)
 
-##SKILLS
+## SKILLS
+
 * **HARDSKILLS**
- * HTML
- * CSS
- * JS
- * LESS, SASS(SCSS)
+    * HTML
+    * CSS
+    * JS
+    * LESS, SASS(SCSS)
 
 
 * **SOFTSKILLS**
- * Positive attitude
- * Flexibility
- * Team oriented
+    * Positive attitude
+    * Flexibility
+    * Team oriented
  
-##EXAMPLE OF CODE
+## EXAMPLE OF CODE
 
 ```  
 function isPalindrome(line) {
@@ -44,15 +47,16 @@ function isPalindrome(line) {
 }
 
 ```
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 
 RENAULT RUSSIA -  *logistics specialist*
 OPUS company - *purchasing manager*
 
-##PORTFOLIO
+## PORTFOLIO
+
 https://github.com/SvetlanaSharkunova
 
 ## LANGUAGE SKILLS
 
-russian - native
-english - basic knowledge (A1)
+**russian** native
+**english** basic knowledge (A1)
