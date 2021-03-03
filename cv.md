@@ -2,8 +2,8 @@
 
 ##CONTACT 
 
-* mobile phone   +7 906 758 58 66
-* email                sharkunova@yandex.ru
+* mobile phone  +7 906 758 58 66
+* email           sharkunova@yandex.ru
 
 ##JOB OBJECTIVE
 
@@ -14,9 +14,22 @@ Frontend-developer (juior)
 Turkmen State University (*mathematics faculty/bachelor degree*)
 
 ##TRAINING COURSES
-1. HTMLAcademy (*free part*)
-1. FreeCodeCamp
+1. [HTMLAcademy (*free part*)](https://htmlacademy.ru/profile/id910771)
+1. [FreeCodeCamp](https://www.freecodecamp.org/sveta_sharkunova)
 
+##SKILLS
+* **HARDSKILLS**
+ * HTML
+ * CSS
+ * JS
+ * LESS, SASS(SCSS)
+
+
+* **SOFTSKILLS**
+ * Positive attitude
+ * Flexibility
+ * Team oriented
+ 
 ##EXAMPLE OF CODE
 
 ```  
