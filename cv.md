@@ -8,7 +8,7 @@
 
 ## JOB OBJECTIVE
 
-Frontend-developer (juior)
+Frontend-developer (junior)
 
 ## EDUCATION
 
@@ -49,8 +49,8 @@ function isPalindrome(line) {
 ```
 ## WORK EXPERIENCE
 
-RENAULT RUSSIA -  *logistics specialist*
-OPUS company - *purchasing manager*
+* RENAULT RUSSIA -  *logistics specialist*;
+* OPUS company - *purchasing manager*
 
 ## PORTFOLIO
 
@@ -58,5 +58,5 @@ https://github.com/SvetlanaSharkunova
 
 ## LANGUAGE SKILLS
 
-**russian** native
-**english** basic knowledge (A1)
+* **russian** native
+* **english** basic knowledge (A1)
